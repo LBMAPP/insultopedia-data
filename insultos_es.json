@@ -1,0 +1,37 @@
+[
+  {
+    "insulto": "Ceporro",
+    "curiosidad": "Del latín 'separatus', usado para describir a los iletrados en la Edad Media.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tuercebotas",
+    "curiosidad": "Usado en los años 50 para referirse a futbolistas malos.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Bocachancla",
+    "curiosidad": "Persona que no sabe cerrar la boca. Una chancla que no deja de sonar.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Zángano",
+    "curiosidad": "El zángano es el macho de la abeja, no trabaja y solo come. De ahí el insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Cenutrio",
+    "curiosidad": "Término coloquial para personas necias. Muy usado en series españolas.",
+    "esLegendario": false
+  },
+  {
+      "insulto": "Eres más lento que el caballo del malo.",
+      "curiosidad": "Frase típica del humor español para decir que alguien tarda mucho.",
+      "esLegendario": false
+  },
+  {
+    "insulto": "Gilipollas",
+    "curiosidad": "prueba de legendario",
+    "esLegendario": true
+  }
+]
