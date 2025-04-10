@@ -30,6 +30,16 @@
       "esLegendario": false
   },
   {
+      "insulto": "Prueba 1",
+      "curiosidad": "Prueba online",
+      "esLegendario": false
+  },
+  {
+      "insulto": "Pruebaaaaaa",
+      "curiosidad": "chepa",
+      "esLegendario": false
+  },
+  {
     "insulto": "Gilipollas",
     "curiosidad": "prueba de legendario",
     "esLegendario": true
