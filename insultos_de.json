@@ -1,8 +1,2501 @@
 [
   {
-    "insulto": "Du bist langsamer als ein Schneckenrennen.",
-    "curiosidad": "Ein witziger Ausdruck, um zu sagen, dass jemand sehr langsam ist.",
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un barco pirata.",
+    "curiosidad": "Hace referencia a los barcos piratas que navegaban sin luces para evitar ser detectados. Se usa para decir que alguien no es muy listo.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una vaca en brazos.",
+    "curiosidad": "Comparación exagerada para indicar que alguien es muy molesto. Proviene del humor popular español.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Expresión sarcástica que remarca lo inútil o inviable, como un submarino en un lugar sin agua.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una puerta sin manilla.",
+    "curiosidad": "Ilustra la inutilidad de algo que debería tener una función básica pero no la cumple.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos gracia que un chiste sin remate.",
+    "curiosidad": "Se usa para describir a alguien sin sentido del humor, comparándolo con un chiste mal contado.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una tortuga con muletas.",
+    "curiosidad": "Exageración para enfatizar la lentitud de una persona, muy común en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos palabras que un telegrama.",
+    "curiosidad": "Hace referencia a la brevedad extrema de los antiguos telegramas, usados para ahorrar en coste.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más seco que un bocadillo de polvorón.",
+    "curiosidad": "Frase popular que compara la frialdad o poca simpatía con un alimento que reseca la boca.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos credibilidad que un político en campaña.",
+    "curiosidad": "Crítica social común en tono de burla hacia las promesas electorales poco creíbles.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más corto que las mangas de un chaleco.",
+    "curiosidad": "Juego de palabras que señala poca inteligencia, usando una prenda que no tiene mangas.",
     "esLegendario": false
   }
-]
-
