@@ -1,57 +1,1002 @@
 [
   {
-    "insulto": "Ceporro",
-    "curiosidad": "Del latín 'separatus', usado para describir a los iletrados en la Edad Media.",
+    "insulto": "Pareces un pato mareado con resaca.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
     "esLegendario": false
   },
   {
-    "insulto": "Tuercebotas",
-    "curiosidad": "Usado en los años 50 para referirse a futbolistas malos.",
+    "insulto": "No sirves ni para decorar piedras.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
     "esLegendario": false
   },
   {
-    "insulto": "Bocachancla",
-    "curiosidad": "Persona que no sabe cerrar la boca. Una chancla que no deja de sonar.",
+    "insulto": "Eres más ridículo que intentar empujar una cuerda.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
     "esLegendario": false
   },
   {
-    "insulto": "Zángano",
-    "curiosidad": "El zángano es el macho de la abeja, no trabaja y solo come. De ahí el insulto.",
+    "insulto": "Tu inteligencia compite con la de un pato mareado.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
     "esLegendario": false
   },
   {
-    "insulto": "Cenutrio",
-    "curiosidad": "Término coloquial para personas necias. Muy usado en series españolas.",
+    "insulto": "Eres más molesto que una bicicleta sin ruedas.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
     "esLegendario": false
   },
   {
-      "insulto": "Eres más lento que el caballo del malo.",
-      "curiosidad": "Frase típica del humor español para decir que alguien tarda mucho.",
-      "esLegendario": false
+    "insulto": "Tu inteligencia compite con la de un cabra.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
   },
   {
-      "insulto": "Prueba 1",
-      "curiosidad": "Prueba online",
-      "esLegendario": false
+    "insulto": "Tienes menos sentido común que un ladrillo.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
   },
   {
-      "insulto": "Pruebaaaaaa",
-      "curiosidad": "chepa",
-      "esLegendario": false
+    "insulto": "Tienes la gracia de un una caja vacía roto.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
   },
   {
-      "insulto": "Pruebaaadfaaa",
-      "curiosidad": "cheafasasdpa",
-      "esLegendario": false
+    "insulto": "Te mueves menos que esquina de una habitación.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
   },
   {
-      "insulto": "Pruebagsfgsaaaaa",
-      "curiosidad": "chesgdpa",
-      "esLegendario": false
+    "insulto": "No sirves ni para pastar nubes.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
   },
   {
-    "insulto": "Gilipollas",
-    "curiosidad": "prueba de legendario",
-    "esLegendario": true
+    "insulto": "Tienes la gracia de un un ladrillo roto.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que una galleta en una sopa.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que una bicicleta sin ruedas.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "No sirves ni para cuidar aire.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Te mueves menos que póster pegado.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan irracional como una reunión de ascensor.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un cabra con una brújula rota.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tu inteligencia compite con la de un mono sin árbol.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más absurdo que un caracol con muletas.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más absurdo que un disco rayado.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más cansino que un ventilador apagado.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más torpe que intentar planchar hielo.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más necio que intentar empujar una cuerda.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tu inteligencia compite con la de un pez fuera del agua.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que intentar saltar sin piernas.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que una silla en un incendio.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan pesado como una reunión de ascensor.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan desastroso como un lunes por la mañana.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos utilidad que una bombilla fundida.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tu inteligencia compite con la de un gallo.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes la gracia de un una piedra roto.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos coherencia que una bombilla fundida.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más absurdo que intentar planchar hielo.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un mono sin árbol con problemas existenciales.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos chispa que una caja vacía.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Te mueves menos que semáforo apagado.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un burro con sueño con resaca.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que el caballo del malo.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan necio como un lunes por la mañana.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un pez fuera del agua con problemas existenciales.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que intentar saltar sin piernas.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que intentar empujar una cuerda.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos utilidad que una sartén sin mango.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Te mueves menos que puerta cerrada.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan irracional como una película sin guion.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que una tostadora en la bañera.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan insulso como una película sin guion.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan inútil como una fiesta sin música.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un burro con sueño con problemas existenciales.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un gallo con resaca.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más torpe que un disco rayado.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un gallo con una brújula rota.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que un ladrillo.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tu inteligencia compite con la de un burro con sueño.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan pesado como un lunes por la mañana.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que intentar freír agua.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más molesto que intentar empujar una cuerda.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un pato mareado con zapatos de payaso.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un pingüino en el Sáhara.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan invisible como una reunión de ascensor.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una piedra dormida.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más insulso que una tortuga en patines.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un mono sin árbol con resaca.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un pato mareado con una brújula rota.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos chispa que una piedra.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ideas que una piedra.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "No sirves ni para soplar globos con la mente.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que intentar atar el viento.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes la gracia de un una bombilla fundida roto.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más molesto que un disco rayado.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes la gracia de un una sartén sin mango roto.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos utilidad que una caja vacía.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más ridículo que un caracol con muletas.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que intentar saltar sin piernas.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que un caracol con muletas.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos futuro que un submarino en el desierto.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan invisible como una película sin guion.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más cansino que una piedra dormida.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una tortuga en patines.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más caótico que intentar freír agua.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan inútil como una reunión de ascensor.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un cabra con resaca.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más necio que un caracol con muletas.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan lento como una fiesta sin música.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que intentar empujar una cuerda.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Te mueves menos que árbol seco.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más invisible que un ventilador apagado.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más desastroso que intentar planchar hielo.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más desastroso que una tortuga en patines.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un cabra con zapatos de payaso.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más molesto que intentar freír agua.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más necio que una bicicleta sin ruedas.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un burro con sueño con una brújula rota.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más insulso que un ventilador apagado.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ideas que una caja vacía.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ritmo que un ladrillo.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ideas que un ladrillo.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos sentido común que una bombilla fundida.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos coherencia que una caja vacía.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "No sirves ni para ordenar sombras.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más cansino que un disco rayado.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más ridículo que una tortuga en patines.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más ridículo que una piedra dormida.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ideas que una sartén sin mango.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos originalidad que un ladrillo.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más desastroso que un caracol con muletas.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan absurdo como un lunes por la mañana.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un gallo con problemas existenciales.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más incómodo que intentar planchar hielo.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan cansino como un lunes por la mañana.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que intentar planchar hielo.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que una piedra dormida.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos sentido común que una piedra.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan pesado como una película sin guion.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un gallo con zapatos de payaso.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que intentar planchar hielo.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más incómodo que un disco rayado.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que una sartén sin mango.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más cansino que intentar saltar sin piernas.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más insulso que intentar atar el viento.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan inútil como un lunes por la mañana.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más desastroso que intentar atar el viento.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más insulso que intentar planchar hielo.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan cansino como una película sin guion.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más torpe que un caracol con muletas.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un cabra con problemas existenciales.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan invisible como un lunes por la mañana.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan ridículo como una reunión de ascensor.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más incómodo que una tortuga en patines.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más caótico que un disco rayado.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que intentar saltar sin piernas.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan incómodo como una película sin guion.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más molesto que intentar atar el viento.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más cansino que intentar empujar una cuerda.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más invisible que una piedra dormida.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan desastroso como una película sin guion.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos originalidad que una caja vacía.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más molesto que un caracol con muletas.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que un ventilador apagado.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más cansino que un caracol con muletas.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan torpe como un lunes por la mañana.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un pez fuera del agua con zapatos de payaso.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos originalidad que una sartén sin mango.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un pez fuera del agua con resaca.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan caótico como un lunes por la mañana.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más desastroso que un ventilador apagado.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más incómodo que un ventilador apagado.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que el caballo del malo.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más ridículo que el caballo del malo.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que intentar atar el viento.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan insulso como un lunes por la mañana.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un mono sin árbol con zapatos de payaso.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan molesto como un lunes por la mañana.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que intentar planchar hielo.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que un disco rayado.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más absurdo que intentar freír agua.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más invisible que intentar empujar una cuerda.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan necio como una reunión de ascensor.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan torpe como una reunión de ascensor.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que intentar planchar hielo.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un burro con sueño con zapatos de payaso.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ritmo que una bombilla fundida.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más necio que intentar freír agua.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un pez fuera del agua con una brújula rota.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan lento como una película sin guion.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan insulso como una fiesta sin música.",
+    "curiosidad": "Expresión irónica usada desde hace décadas en el habla coloquial.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más absurdo que un ventilador apagado.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que un caracol con muletas.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más insulso que intentar freír agua.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos chispa que una bombilla fundida.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más ridículo que intentar saltar sin piernas.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan incómodo como una fiesta sin música.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ritmo que una caja vacía.",
+    "curiosidad": "Forma parte del repertorio de insultos creativos del español informal.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más ridículo que un ventilador apagado.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más desastroso que una bicicleta sin ruedas.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más pesado que una bicicleta sin ruedas.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más caótico que el caballo del malo.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más absurdo que intentar empujar una cuerda.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos luces que una piedra.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más incómodo que el caballo del malo.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más lento que una piedra dormida.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un mono sin árbol con una brújula rota.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más inútil que intentar freír agua.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más cansino que intentar freír agua.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más insulso que el caballo del malo.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más irracional que una piedra dormida.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más invisible que un reloj sin pilas.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan incómodo como una reunión de ascensor.",
+    "curiosidad": "Frase humorística de origen popular para describir torpeza o lentitud.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más invisible que intentar planchar hielo.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos utilidad que un ladrillo.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos ritmo que una sartén sin mango.",
+    "curiosidad": "Referencia clásica del humor español sarcástico.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Tienes menos coherencia que una sartén sin mango.",
+    "curiosidad": "Se dice en tono burlesco para remarcar ineptitud de forma creativa.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan ridículo como una película sin guion.",
+    "curiosidad": "Muy usado en círculos juveniles como forma divertida de insulto.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más insulso que un disco rayado.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Pareces un pato mareado con problemas existenciales.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más molesto que un ventilador apagado.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más molesto que una tortuga en patines.",
+    "curiosidad": "Refleja la riqueza lingüística y la creatividad insultante del idioma.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan irracional como un lunes por la mañana.",
+    "curiosidad": "Deriva de comparaciones exageradas típicas del humor costumbrista.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres más incómodo que intentar freír agua.",
+    "curiosidad": "Sátira que exagera situaciones cotidianas para insultar con humor.",
+    "esLegendario": false
+  },
+  {
+    "insulto": "Eres tan molesto como una película sin guion.",
+    "curiosidad": "Típico en contextos relajados como reuniones de amigos o familia.",
+    "esLegendario": false
   }
 ]
